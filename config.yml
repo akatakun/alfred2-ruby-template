@@ -1,15 +1,15 @@
 ## workflow build config
 
 # id and name for the workflow (bundle id = domain.id)
-id: alfred2-ruby-template
+id: hatebu-suggest
 
 # base domain
-domain: me.zhaowu
+domain: tokyo.akataworks
 
-name: Ruby Based Workflow Template
-description: A starting place for developing Ruby based workflow in Alfred
-created_by: Zhao Cai
-website: https://github.com/zhaocai/alfred2-ruby-template
+name: Hatebu Suggest
+description: Get Hatebu Search Suggestions
+created_by: Akata
+website: https://github.com/akatakun/alfred2-ruby-template
 readme: readme
 
 ## development config
